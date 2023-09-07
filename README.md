@@ -43,11 +43,11 @@ https://github.com/martagorska-dev/forkify/assets/130976058/c14deb86-21ac-4080-a
 2. Install dependencies
    ```
    npm install
-   ,,,
+   ```
 3. Start application
    ```
    npm start
-   ,,,
+   ```
 
 
 ## Usage
