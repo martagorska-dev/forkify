@@ -18,9 +18,9 @@ Find a recipe for tonight's dinner.
 
 
 ## Features
-- Increase or decrease servings ⬆️⬇️
-- Bookmark recipes: Save your favorite recipes for later 🤍
-- Add recipes: Create and share your own recipes 🧑‍🍳
+- Bookmarking recipes: Save your favorite recipes for later 🤍
+- Increasing or decreasing servings ⬆️⬇️
+- Adding recipes: Create and share your own recipes 🧑‍🍳
 - Pagination: Easily navigate search results 📖
   
 
@@ -52,7 +52,7 @@ https://github.com/martagorska-dev/forkify/assets/130976058/c14deb86-21ac-4080-a
 
 ## Usage
 - Find recipes using keywords (e.g. pizza) or ingredients (e.g. avocado) 🍕🥗🧆
-- View recipe details: See ingredients, cooking instructions, and serving size 🥑🥕🍅
+- See recipe details: ingredients, cooking instructions, and serving size 🥑🥕🍅
 
 
 ## Acknowledgements
